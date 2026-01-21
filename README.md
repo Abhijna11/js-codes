@@ -1,2 +1,2 @@
 # js-codes
-javascript code repo 
+javascript code repo
